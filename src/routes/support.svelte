@@ -120,6 +120,7 @@ import { createKanakaIntake } from '$lib/graphql-access';
 	</form>
 
 
+	<div><a href="/support-intake-review">View Submitted Intake Records</a></div>
 
 
 
